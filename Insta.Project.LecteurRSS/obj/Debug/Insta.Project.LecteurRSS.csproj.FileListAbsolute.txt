@@ -1,0 +1,23 @@
+C:\Users\Julien\Documents\Visual Studio 2008\Projects\Insta.Project.LecteurRSS\Insta.Project.LecteurRSS\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Julien\Documents\Visual Studio 2008\Projects\Insta.Project.LecteurRSS\Insta.Project.LecteurRSS\obj\Debug\Insta.Project.LecteurRSS.Properties.Resources.resources
+C:\Users\Julien\Documents\Visual Studio 2008\Projects\Insta.Project.LecteurRSS\Insta.Project.LecteurRSS\obj\Debug\Insta.Project.LecteurRSS.csproj.GenerateResource.Cache
+C:\Users\Julien\Documents\Visual Studio 2008\Projects\Insta.Project.LecteurRSS\Insta.Project.LecteurRSS\bin\Debug\Insta.Project.LecteurRSS.pdb
+C:\Users\Julien\Documents\Visual Studio 2008\Projects\Insta.Project.LecteurRSS\Insta.Project.LecteurRSS\obj\Debug\Insta.Project.LecteurRSS.pdb
+C:\Users\Julien\Documents\Visual Studio 2008\Projects\Insta.Project.LecteurRSS\Insta.Project.LecteurRSS\bin\Debug\nunit.framework.dll
+C:\Users\Julien\Documents\Visual Studio 2008\Projects\Insta.Project.LecteurRSS\Insta.Project.LecteurRSS\bin\Debug\nunit.framework.xml
+C:\Cours\Code\INSTA\zExchange\Insta.Project.LecteurRSS\Insta.Project.LecteurRSS\obj\Debug\Insta.Project.LecteurRSS.pdb
+C:\Cours\Code\INSTA\zExchange\Insta.Project.LecteurRSS\Insta.Project.LecteurRSS\obj\Debug\ResolveAssemblyReference.cache
+C:\Cours\Code\INSTA\zExchange\Insta.Project.LecteurRSS\Insta.Project.LecteurRSS\obj\Debug\Insta.Project.LecteurRSS.Properties.Resources.resources
+C:\Cours\Code\INSTA\zExchange\Insta.Project.LecteurRSS\Insta.Project.LecteurRSS\obj\Debug\Insta.Project.LecteurRSS.SyndicationUI.resources
+C:\Cours\Code\INSTA\zExchange\Insta.Project.LecteurRSS\Insta.Project.LecteurRSS\obj\Debug\Insta.Project.LecteurRSS.csproj.GenerateResource.Cache
+C:\Cours\Code\INSTA\zExchange\Insta.Project.LecteurRSS\Insta.Project.LecteurRSS\bin\Debug\Insta.Project.LecteurRSS.pdb
+C:\Cours\Code\INSTA\zExchange\Insta.Project.LecteurRSS\Insta.Project.LecteurRSS\bin\Debug\nunit.framework.dll
+C:\Cours\Code\INSTA\zExchange\Insta.Project.LecteurRSS\Insta.Project.LecteurRSS\bin\Debug\nunit.framework.xml
+C:\Cours\Code\INSTA\zExchange\Insta.Project.LecteurRSS\Insta.Project.LecteurRSS\bin\Debug\Insta.Project.LecteurRSS.dll
+C:\Cours\Code\INSTA\zExchange\Insta.Project.LecteurRSS\Insta.Project.LecteurRSS\obj\Debug\Insta.Project.LecteurRSS.dll
+C:\Cours\Code\INSTA\zExchange\Insta.Project.LecteurRSS\Insta.Project.LecteurRSS\obj\Debug\Insta.Project.LecteurRSS.frmBrowser.resources
+C:\Users\Julien\Documents\Visual Studio 2008\Projects\Insta.Project.LecteurRSS\Insta.Project.LecteurRSS\obj\Debug\Insta.Project.LecteurRSS.frmBrowser.resources
+C:\Users\Julien\Documents\Visual Studio 2008\Projects\Insta.Project.LecteurRSS\Insta.Project.LecteurRSS\obj\Debug\Insta.Project.LecteurRSS.frmManager.resources
+C:\Users\Julien\Documents\Visual Studio 2008\Projects\Insta.Project.LecteurRSS\Insta.Project.LecteurRSS\bin\Debug\Insta.Project.LecteurRSS.exe
+C:\Users\Julien\Documents\Visual Studio 2008\Projects\Insta.Project.LecteurRSS\Insta.Project.LecteurRSS\obj\Debug\Insta.Project.LecteurRSS.exe
+C:\Users\Julien\Documents\Visual Studio 2008\Projects\Insta.Project.LecteurRSS\Insta.Project.LecteurRSS\obj\Debug\Insta.Project.LecteurRSS.frmNewChannel.resources

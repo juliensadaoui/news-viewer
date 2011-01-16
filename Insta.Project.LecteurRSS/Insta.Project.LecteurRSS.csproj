@@ -1,0 +1,263 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="3.5" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.21022</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{A541FEFD-BC7C-49C3-9C59-C6A2E24F7AFB}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Insta.Project.LecteurRSS</RootNamespace>
+    <AssemblyName>Insta.Project.LecteurRSS</AssemblyName>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+    <StartupObject>Insta.Project.LecteurRSS.Program</StartupObject>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <DocumentationFile>
+    </DocumentationFile>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="nunit.framework, Version=2.4.1.0, Culture=neutral, PublicKeyToken=96d09a1eb7f44a77, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.Core">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.DirectoryServices" />
+    <Reference Include="System.Xml.Linq">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data.DataSetExtensions">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Controller\frmDeplacerController.cs" />
+    <Compile Include="Model\Channel.cs" />
+    <Compile Include="Model\ChannelMovedException.cs" />
+    <Compile Include="Model\FolderMovedException.cs" />
+    <Compile Include="Model\SyndicationFolder.cs" />
+    <Compile Include="View\frmDeplacer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\frmDeplacer.Designer.cs">
+      <DependentUpon>frmDeplacer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\frmNewChannel.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\frmNewChannel.Designer.cs">
+      <DependentUpon>frmNewChannel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\frmBrowser.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\frmBrowser.Designer.cs">
+      <DependentUpon>frmBrowser.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controller\frmManagerController.cs" />
+    <Compile Include="Controller\frmNewChannelController.cs" />
+    <Compile Include="View\frmNewFolder.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\frmNewFolder.Designer.cs">
+      <DependentUpon>frmNewFolder.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controller\frmNewFolderController.cs" />
+    <Compile Include="Model\ChannelAlreadyCreatedException.cs" />
+    <Compile Include="Model\ChannelNotFoundException.cs" />
+    <Compile Include="Model\FolderAlreadyCreatedException.cs" />
+    <Compile Include="Model\FolderNotFoundException.cs" />
+    <Compile Include="Model\IllegalNameException.cs" />
+    <Compile Include="Model\SyndicationLoadState.cs" />
+    <Compile Include="Model\SyndicationManager.cs" />
+    <Compile Include="SyndicationParser\AbstractSyndicationParser.cs" />
+    <Compile Include="Model\Cloud.cs" />
+    <Compile Include="Model\Image.cs" />
+    <Compile Include="Model\Item.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="View\frmDeplacer.resx">
+      <DependentUpon>frmDeplacer.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\frmNewChannel.resx">
+      <DependentUpon>frmNewChannel.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\frmBrowser.resx">
+      <DependentUpon>frmBrowser.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\frmNewFolder.resx">
+      <DependentUpon>frmNewFolder.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\frmManager.resx">
+      <DependentUpon>frmManager.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="%40Diagrams\ClassDiagram1.cd" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="SyndicationParser\ATOM_1_0_Parser.cs" />
+    <Compile Include="SyndicationParser\ISyndicationParser.cs" />
+    <Compile Include="SyndicationParser\RSS_0_91_Parser.cs" />
+    <Compile Include="SyndicationParser\RSS_0_92_Parser.cs" />
+    <Compile Include="SyndicationParser\RSS_2_0_Parser.cs" />
+    <Compile Include="SyndicationParser\SyndicationFormat.cs" />
+    <Compile Include="SyndicationParser\SyndicationFactory.cs" />
+    <Compile Include="View\frmManager.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\frmManager.Designer.cs">
+      <DependentUpon>frmManager.cs</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.2.0">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 2.0 %28x86%29</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.0">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.0 %28x86%29</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.3.1">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 3.1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Image1.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\add_category_pop.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\add_category_small.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\reload_all.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\folder.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\stop.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\folder_unread.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\mark_feed_read.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\mark_read.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\next_unread.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\reload_browser.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\add_feed.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\delete.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\feed.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\rss1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\folder1.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\copy.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\error_round.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cancel_workert.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\rss2.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\add_channel.gif" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

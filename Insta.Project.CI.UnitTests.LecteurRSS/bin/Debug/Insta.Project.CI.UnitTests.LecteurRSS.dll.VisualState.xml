@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<VisualState xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ShowCheckBoxes="true">
+  <TopNode>[0-1026]C:\Users\Julien\Documents\Visual Studio 2008\Projects\Insta.Project.LecteurRSS\Insta.Project.CI.UnitTests.LecteurRSS\bin\Debug\Insta.Project.CI.UnitTests.LecteurRSS.dll</TopNode>
+  <SelectedNode>[0-1011]Insta.Project.CI.UnitTests.LecteurRSS.SyndicationManagerTests</SelectedNode>
+  <ExcludeCategories>false</ExcludeCategories>
+  <Nodes>
+    <Node UniqueName="[0-1026]C:\Users\Julien\Documents\Visual Studio 2008\Projects\Insta.Project.LecteurRSS\Insta.Project.CI.UnitTests.LecteurRSS\bin\Debug\Insta.Project.CI.UnitTests.LecteurRSS.dll" Expanded="true">
+      <Nodes>
+        <Node UniqueName="[0-1027]Insta" Expanded="true">
+          <Nodes>
+            <Node UniqueName="[0-1028]Insta.Project" Expanded="true">
+              <Nodes>
+                <Node UniqueName="[0-1029]Insta.Project.CI" Expanded="true">
+                  <Nodes>
+                    <Node UniqueName="[0-1030]Insta.Project.CI.UnitTests" Expanded="true">
+                      <Nodes>
+                        <Node UniqueName="[0-1031]Insta.Project.CI.UnitTests.LecteurRSS" Expanded="true">
+                          <Nodes>
+                            <Node UniqueName="[0-1022]Insta.Project.CI.UnitTests.LecteurRSS.RSS_0_91_ParserTests" Expanded="true">
+                              <Nodes>
+                                <Node UniqueName="[0-1023]Insta.Project.CI.UnitTests.LecteurRSS.RSS_0_91_ParserTests.TestParse" />
+                              </Nodes>
+                            </Node>
+                            <Node UniqueName="[0-1024]Insta.Project.CI.UnitTests.LecteurRSS.RSS_0_92_ParserTests" Expanded="true">
+                              <Nodes>
+                                <Node UniqueName="[0-1025]Insta.Project.CI.UnitTests.LecteurRSS.RSS_0_92_ParserTests.TestParse" />
+                              </Nodes>
+                            </Node>
+                            <Node UniqueName="[0-1020]Insta.Project.CI.UnitTests.LecteurRSS.RSS_2_0_ParserTests" Expanded="true">
+                              <Nodes>
+                                <Node UniqueName="[0-1021]Insta.Project.CI.UnitTests.LecteurRSS.RSS_2_0_ParserTests.TestParse" />
+                              </Nodes>
+                            </Node>
+                            <Node UniqueName="[0-1018]Insta.Project.CI.UnitTests.LecteurRSS.SyndicationChannelTests" Expanded="true">
+                              <Nodes>
+                                <Node UniqueName="[0-1019]Insta.Project.CI.UnitTests.LecteurRSS.SyndicationChannelTests.TestToString" />
+                              </Nodes>
+                            </Node>
+                            <Node UniqueName="[0-1000]Insta.Project.CI.UnitTests.LecteurRSS.SyndicationFolderTests" Expanded="true">
+                              <Nodes>
+                                <Node UniqueName="[0-1009]Insta.Project.CI.UnitTests.LecteurRSS.SyndicationFolderTests.TestCreateChannel" />
+                                <Node UniqueName="[0-1004]Insta.Project.CI.UnitTests.LecteurRSS.SyndicationFolderTests.TestCreateSubFolder" />
+                                <Node UniqueName="[0-1005]Insta.Project.CI.UnitTests.LecteurRSS.SyndicationFolderTests.TestDelete" />
+                                <Node UniqueName="[0-1003]Insta.Project.CI.UnitTests.LecteurRSS.SyndicationFolderTests.TestExistsChannel" />
+                                <Node UniqueName="[0-1002]Insta.Project.CI.UnitTests.LecteurRSS.SyndicationFolderTests.TestExistsSubFolder" />
+                                <Node UniqueName="[0-1008]Insta.Project.CI.UnitTests.LecteurRSS.SyndicationFolderTests.TestGetChannel" />
+                                <Node UniqueName="[0-1001]Insta.Project.CI.UnitTests.LecteurRSS.SyndicationFolderTests.TestGetSubFolder" />
+                                <Node UniqueName="[0-1006]Insta.Project.CI.UnitTests.LecteurRSS.SyndicationFolderTests.TestMove" />
+                                <Node UniqueName="[0-1007]Insta.Project.CI.UnitTests.LecteurRSS.SyndicationFolderTests.TestRename" />
+                                <Node UniqueName="[0-1010]Insta.Project.CI.UnitTests.LecteurRSS.SyndicationFolderTests.TestToString" />
+                              </Nodes>
+                            </Node>
+                            <Node UniqueName="[0-1016]Insta.Project.CI.UnitTests.LecteurRSS.SyndicationItemTests" Expanded="true">
+                              <Nodes>
+                                <Node UniqueName="[0-1017]Insta.Project.CI.UnitTests.LecteurRSS.SyndicationItemTests.TestDelete" />
+                              </Nodes>
+                            </Node>
+                            <Node UniqueName="[0-1011]Insta.Project.CI.UnitTests.LecteurRSS.SyndicationManagerTests" Expanded="true">
+                              <Nodes>
+                                <Node UniqueName="[0-1012]Insta.Project.CI.UnitTests.LecteurRSS.SyndicationManagerTests.TestExistsChannel" />
+                                <Node UniqueName="[0-1014]Insta.Project.CI.UnitTests.LecteurRSS.SyndicationManagerTests.TestExistsFolder" />
+                                <Node UniqueName="[0-1013]Insta.Project.CI.UnitTests.LecteurRSS.SyndicationManagerTests.TestGetChannel" />
+                                <Node UniqueName="[0-1015]Insta.Project.CI.UnitTests.LecteurRSS.SyndicationManagerTests.TestGetFolder" />
+                              </Nodes>
+                            </Node>
+                          </Nodes>
+                        </Node>
+                      </Nodes>
+                    </Node>
+                  </Nodes>
+                </Node>
+              </Nodes>
+            </Node>
+          </Nodes>
+        </Node>
+      </Nodes>
+    </Node>
+  </Nodes>
+</VisualState>

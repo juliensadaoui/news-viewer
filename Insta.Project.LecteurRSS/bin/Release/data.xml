@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <folder>
+    <name>Informatique</name>
+    <folder>
+      <name>clubic</name>
+      <channel>
+        <name>Zdnet Jeux</name>
+        <link>http://www.clubic.com/xml/newsjeuxvideo.xml</link>
+      </channel>
+      <channel>
+        <name>Clubic Peripherie</name>
+        <link>http://www.clubic.com/xml/articleperipheriques.xml</link>
+      </channel>
+      <channel>
+        <name>Clubic news</name>
+        <link>http://www.clubic.com/xml/news.xml</link>
+      </channel>
+    </folder>
+    <folder>
+      <name>zdnet</name>
+      <channel>
+        <name>Zdnet</name>
+        <link>http://www.zdnet.fr/feeds/rss/actualites/</link>
+      </channel>
+    </folder>
+    <folder>
+      <name>Matbe</name>
+      <channel>
+        <name>Matbe TT</name>
+        <link>http://feeds.feedburner.com/pcworld-fr/tout?format=xml</link>
+      </channel>
+    </folder>
+    <folder>
+      <name>Apple</name>
+      <channel>
+        <name>Apple</name>
+        <link>http://ax.itunes.apple.com/WebObjects/MZStoreServices.woa/ws/RSS/topsongs/limit=10/xml</link>
+      </channel>
+      <channel>
+        <name>Apple3</name>
+        <link>http://images.apple.com/main/rss/hotnews/hotnews.rss</link>
+      </channel>
+    </folder>
+  </folder>
+  <folder>
+    <name>Actualité</name>
+    <channel>
+      <name>Lemonde Une</name>
+      <link>http://www.lemonde.fr/rss/une.xml</link>
+    </channel>
+    <channel>
+      <name>France Soir</name>
+      <link>http://www.francesoir.fr/actualite/rss.xml</link>
+    </channel>
+    <channel>
+      <name>Leparisien Actualite</name>
+      <link>http://www.leparisien.fr/actualites-a-la-une.rss.xml</link>
+    </channel>
+    <channel>
+      <name>Ouest France</name>
+      <link>http://www.ouest-france.fr/actu/actualite-RSS.php</link>
+    </channel>
+  </folder>
+</root>

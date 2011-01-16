@@ -1,0 +1,36 @@
+C:\Users\Julien\Documents\Visual Studio 2008\Projects\Insta.Project.LecteurRSS\Insta.Project.LecteurRSS\bin\Release\Insta.Project.LecteurRSS.dll
+C:\Users\Julien\Documents\Visual Studio 2008\Projects\Insta.Project.LecteurRSS\Insta.Project.LecteurRSS\bin\Release\Insta.Project.LecteurRSS.pdb
+C:\Users\Julien\Documents\Visual Studio 2008\Projects\Insta.Project.LecteurRSS\Insta.Project.LecteurRSS\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Julien\Documents\Visual Studio 2008\Projects\Insta.Project.LecteurRSS\Insta.Project.LecteurRSS\obj\Release\Insta.Project.LecteurRSS.frmNewChannel.resources
+C:\Users\Julien\Documents\Visual Studio 2008\Projects\Insta.Project.LecteurRSS\Insta.Project.LecteurRSS\obj\Release\Insta.Project.LecteurRSS.frmNewFolder.resources
+C:\Users\Julien\Documents\Visual Studio 2008\Projects\Insta.Project.LecteurRSS\Insta.Project.LecteurRSS\obj\Release\Insta.Project.LecteurRSS.Properties.Resources.resources
+C:\Users\Julien\Documents\Visual Studio 2008\Projects\Insta.Project.LecteurRSS\Insta.Project.LecteurRSS\obj\Release\Insta.Project.LecteurRSS.frmManager.resources
+C:\Users\Julien\Documents\Visual Studio 2008\Projects\Insta.Project.LecteurRSS\Insta.Project.LecteurRSS\obj\Release\Insta.Project.LecteurRSS.csproj.GenerateResource.Cache
+C:\Users\Julien\Documents\Visual Studio 2008\Projects\Insta.Project.LecteurRSS\Insta.Project.LecteurRSS\obj\Release\Insta.Project.LecteurRSS.dll
+C:\Users\Julien\Documents\Visual Studio 2008\Projects\Insta.Project.LecteurRSS\Insta.Project.LecteurRSS\obj\Release\Insta.Project.LecteurRSS.pdb
+C:\Users\Julien\Documents\Visual Studio 2008\Projects\Insta.Project.LecteurRSS\Insta.Project.LecteurRSS\obj\Release\Insta.Project.LecteurRSS.frmDeplacer.resources
+C:\Users\Julien\Documents\Visual Studio 2008\Projects\Insta.Project.LecteurRSS\Insta.Project.LecteurRSS\obj\Release\Insta.Project.LecteurRSS.frmBrowser.resources
+C:\Users\Julien\Desktop\Insta.Project.LecteurRSS\Insta.Project.LecteurRSS\bin\Release\Insta.Project.LecteurRSS.dll
+C:\Users\Julien\Desktop\Insta.Project.LecteurRSS\Insta.Project.LecteurRSS\bin\Release\Insta.Project.LecteurRSS.pdb
+C:\Users\Julien\Desktop\Insta.Project.LecteurRSS\Insta.Project.LecteurRSS\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Julien\Desktop\Insta.Project.LecteurRSS\Insta.Project.LecteurRSS\obj\Release\Insta.Project.LecteurRSS.frmDeplacer.resources
+C:\Users\Julien\Desktop\Insta.Project.LecteurRSS\Insta.Project.LecteurRSS\obj\Release\Insta.Project.LecteurRSS.frmNewChannel.resources
+C:\Users\Julien\Desktop\Insta.Project.LecteurRSS\Insta.Project.LecteurRSS\obj\Release\Insta.Project.LecteurRSS.frmBrowser.resources
+C:\Users\Julien\Desktop\Insta.Project.LecteurRSS\Insta.Project.LecteurRSS\obj\Release\Insta.Project.LecteurRSS.frmNewFolder.resources
+C:\Users\Julien\Desktop\Insta.Project.LecteurRSS\Insta.Project.LecteurRSS\obj\Release\Insta.Project.LecteurRSS.Properties.Resources.resources
+C:\Users\Julien\Desktop\Insta.Project.LecteurRSS\Insta.Project.LecteurRSS\obj\Release\Insta.Project.LecteurRSS.frmManager.resources
+C:\Users\Julien\Desktop\Insta.Project.LecteurRSS\Insta.Project.LecteurRSS\obj\Release\Insta.Project.LecteurRSS.csproj.GenerateResource.Cache
+C:\Users\Julien\Desktop\Insta.Project.LecteurRSS\Insta.Project.LecteurRSS\obj\Release\Insta.Project.LecteurRSS.dll
+C:\Users\Julien\Desktop\Insta.Project.LecteurRSS\Insta.Project.LecteurRSS\obj\Release\Insta.Project.LecteurRSS.pdb
+C:\Documents and Settings\Julien\Mes documents\Visual Studio 2008\Projects\Insta.Project.LecteurRSS\Insta.Project.LecteurRSS\bin\Release\Insta.Project.LecteurRSS.pdb
+C:\Documents and Settings\Julien\Mes documents\Visual Studio 2008\Projects\Insta.Project.LecteurRSS\Insta.Project.LecteurRSS\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Julien\Mes documents\Visual Studio 2008\Projects\Insta.Project.LecteurRSS\Insta.Project.LecteurRSS\obj\Release\Insta.Project.LecteurRSS.frmDeplacer.resources
+C:\Documents and Settings\Julien\Mes documents\Visual Studio 2008\Projects\Insta.Project.LecteurRSS\Insta.Project.LecteurRSS\obj\Release\Insta.Project.LecteurRSS.frmNewChannel.resources
+C:\Documents and Settings\Julien\Mes documents\Visual Studio 2008\Projects\Insta.Project.LecteurRSS\Insta.Project.LecteurRSS\obj\Release\Insta.Project.LecteurRSS.frmBrowser.resources
+C:\Documents and Settings\Julien\Mes documents\Visual Studio 2008\Projects\Insta.Project.LecteurRSS\Insta.Project.LecteurRSS\obj\Release\Insta.Project.LecteurRSS.frmNewFolder.resources
+C:\Documents and Settings\Julien\Mes documents\Visual Studio 2008\Projects\Insta.Project.LecteurRSS\Insta.Project.LecteurRSS\obj\Release\Insta.Project.LecteurRSS.Properties.Resources.resources
+C:\Documents and Settings\Julien\Mes documents\Visual Studio 2008\Projects\Insta.Project.LecteurRSS\Insta.Project.LecteurRSS\obj\Release\Insta.Project.LecteurRSS.frmManager.resources
+C:\Documents and Settings\Julien\Mes documents\Visual Studio 2008\Projects\Insta.Project.LecteurRSS\Insta.Project.LecteurRSS\obj\Release\Insta.Project.LecteurRSS.csproj.GenerateResource.Cache
+C:\Documents and Settings\Julien\Mes documents\Visual Studio 2008\Projects\Insta.Project.LecteurRSS\Insta.Project.LecteurRSS\obj\Release\Insta.Project.LecteurRSS.pdb
+C:\Documents and Settings\Julien\Mes documents\Visual Studio 2008\Projects\Insta.Project.LecteurRSS\Insta.Project.LecteurRSS\bin\Release\Insta.Project.LecteurRSS.exe
+C:\Documents and Settings\Julien\Mes documents\Visual Studio 2008\Projects\Insta.Project.LecteurRSS\Insta.Project.LecteurRSS\obj\Release\Insta.Project.LecteurRSS.exe

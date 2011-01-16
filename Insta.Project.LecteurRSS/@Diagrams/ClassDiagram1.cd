@@ -1,0 +1,158 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Insta.Project.LecteurRSS.AbstractSyndicationParser">
+    <Position X="3.75" Y="0.75" Width="2" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+      <Compartment Name="Properties" Collapsed="true" />
+      <Compartment Name="Methods" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AEAgABAhCEAwCGAAAAoAAAAQEAwAFBESAAIAwIBAAAA=</HashCode>
+      <FileName>SyndicationParser\AbstractSyndicationParser.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Orientation="Left" Position="0.661" />
+  </Class>
+  <Class Name="Insta.Project.LecteurRSS.RSS_2_0_Parser">
+    <Position X="1.25" Y="4.25" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+      <Compartment Name="Properties" Collapsed="true" />
+      <Compartment Name="Methods" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAgAAAABEAAAAAAAAAAKAIBAAAA=</HashCode>
+      <FileName>SyndicationParser\RSS_2_0_Parser.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Insta.Project.LecteurRSS.RSS_0_91_Parser">
+    <Position X="3" Y="4.25" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+      <Compartment Name="Properties" Collapsed="true" />
+      <Compartment Name="Methods" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAgAAAABEAAAAAAAAAACAIBAAAA=</HashCode>
+      <FileName>SyndicationParser\RSS_0_91_Parser.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Insta.Project.LecteurRSS.RSS_0_92_Parser">
+    <Position X="4.75" Y="4.25" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+      <Compartment Name="Properties" Collapsed="true" />
+      <Compartment Name="Methods" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAgAAAABEAAAAAAAAAACAIBAAAA=</HashCode>
+      <FileName>SyndicationParser\RSS_0_92_Parser.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Insta.Project.LecteurRSS.SyndicationParser.ATOM_1_0_Parser">
+    <Position X="6.5" Y="4.25" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+      <Compartment Name="Properties" Collapsed="true" />
+      <Compartment Name="Methods" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAgAAAAAEAAAAACAAAAAAIBAAAA=</HashCode>
+      <FileName>SyndicationParser\ATOM_1_0_Parser.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Insta.Project.LecteurRSS.SyndicationManager" Collapsed="true">
+    <Position X="10.25" Y="3.25" Width="2" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+      <Compartment Name="Methods" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAEkIgAAAARACAAAgAAAAAAAAAQAAQAAgEEAgAAAAA=</HashCode>
+      <FileName>SyndicationManager.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="Root" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="Insta.Project.LecteurRSS.SyndicationFolder" Collapsed="true">
+    <Position X="10.5" Y="2" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="true" />
+      <Compartment Name="Fields" Collapsed="true" />
+      <Compartment Name="Properties" Collapsed="true" />
+      <Compartment Name="Events" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AEIgoAoSAIIAQAMEAAAIQAQQAIMAGAAEgyJAAgAAEAA=</HashCode>
+      <FileName>Model\SyndicationFolder.cs</FileName>
+      <NewMemberFileName>Model\_SyndicationFolder.cs</NewMemberFileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Insta.Project.LecteurRSS.Channel" Collapsed="true">
+    <Position X="10.5" Y="0.75" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+      <Compartment Name="Properties" Collapsed="true" />
+      <Compartment Name="Methods" Collapsed="true" />
+      <Compartment Name="Events" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AARA4BEhOIBwSEMEBEIJQAQQgJ8IWBGWQIsAwAAUCMA=</HashCode>
+      <FileName>Model\Channel.cs</FileName>
+      <NewMemberFileName>Model\_Channel.cs</NewMemberFileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Insta.Project.LecteurRSS.Item" Collapsed="true">
+    <Position X="13.25" Y="0.75" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+      <Compartment Name="Properties" Collapsed="true" />
+      <Compartment Name="Events" Collapsed="true" />
+      <Compartment Name="Methods" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>BAAgFAABEsAgBEEEhoIAUAAQABEABAAAQAAAQAAAKAA=</HashCode>
+      <FileName>Model\Item.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Insta.Project.LecteurRSS.SyndicationParser.SyndicationFactory">
+    <Position X="6.75" Y="0.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAgAAAAAgAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>SyndicationParser\SyndicationFactory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Insta.Project.LecteurRSS.frmManagerController" Collapsed="true">
+    <Position X="10.25" Y="4.25" Width="2" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+      <Compartment Name="Properties" Collapsed="true" />
+      <Compartment Name="Methods" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AUQAkIBgAAAAAAAIAwGIEQMEIAABhAAAACAAAAAAACA=</HashCode>
+      <FileName>Controller\frmManagerController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Insta.Project.LecteurRSS.frmManager" Collapsed="true">
+    <Position X="10.5" Y="5.25" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+      <Compartment Name="Methods" Collapsed="true" />
+      <Compartment Name="Properties" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>B0gQl/8HFSkQMjyGUPCHjEgWscYIBQFKFAgTgsGuQlA=</HashCode>
+      <FileName>View\frmManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="Insta.Project.LecteurRSS.SyndicationParser.ISyndicationParser">
+    <Position X="1" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>SyndicationParser\ISyndicationParser.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

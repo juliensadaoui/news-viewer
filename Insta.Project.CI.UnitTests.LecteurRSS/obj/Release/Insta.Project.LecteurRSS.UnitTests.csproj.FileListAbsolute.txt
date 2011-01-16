@@ -1,0 +1,36 @@
+C:\Users\Julien\Documents\Visual Studio 2008\Projects\Insta.Project.LecteurRSS\Insta.Project.CI.UnitTests.LecteurRSS\bin\Release\Insta.Project.CI.UnitTests.LecteurRSS.dll
+C:\Users\Julien\Documents\Visual Studio 2008\Projects\Insta.Project.LecteurRSS\Insta.Project.CI.UnitTests.LecteurRSS\bin\Release\Insta.Project.CI.UnitTests.LecteurRSS.pdb
+C:\Users\Julien\Documents\Visual Studio 2008\Projects\Insta.Project.LecteurRSS\Insta.Project.CI.UnitTests.LecteurRSS\bin\Release\Insta.Project.LecteurRSS.dll
+C:\Users\Julien\Documents\Visual Studio 2008\Projects\Insta.Project.LecteurRSS\Insta.Project.CI.UnitTests.LecteurRSS\bin\Release\Insta.Project.LecteurRSS.pdb
+C:\Users\Julien\Documents\Visual Studio 2008\Projects\Insta.Project.LecteurRSS\Insta.Project.CI.UnitTests.LecteurRSS\bin\Release\Interop.Microsoft.Feeds.Interop.dll
+C:\Users\Julien\Documents\Visual Studio 2008\Projects\Insta.Project.LecteurRSS\Insta.Project.CI.UnitTests.LecteurRSS\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Julien\Documents\Visual Studio 2008\Projects\Insta.Project.LecteurRSS\Insta.Project.CI.UnitTests.LecteurRSS\obj\Release\Interop.Microsoft.Feeds.Interop.dll
+C:\Users\Julien\Documents\Visual Studio 2008\Projects\Insta.Project.LecteurRSS\Insta.Project.CI.UnitTests.LecteurRSS\obj\Release\Insta.Project.LecteurRSS.UnitTests.csproj.ResolveComReference.cache
+C:\Users\Julien\Documents\Visual Studio 2008\Projects\Insta.Project.LecteurRSS\Insta.Project.CI.UnitTests.LecteurRSS\obj\Release\Insta.Project.CI.UnitTests.LecteurRSS.Properties.Resources.resources
+C:\Users\Julien\Documents\Visual Studio 2008\Projects\Insta.Project.LecteurRSS\Insta.Project.CI.UnitTests.LecteurRSS\obj\Release\Insta.Project.LecteurRSS.UnitTests.csproj.GenerateResource.Cache
+C:\Users\Julien\Documents\Visual Studio 2008\Projects\Insta.Project.LecteurRSS\Insta.Project.CI.UnitTests.LecteurRSS\obj\Release\Insta.Project.CI.UnitTests.LecteurRSS.dll
+C:\Users\Julien\Documents\Visual Studio 2008\Projects\Insta.Project.LecteurRSS\Insta.Project.CI.UnitTests.LecteurRSS\obj\Release\Insta.Project.CI.UnitTests.LecteurRSS.pdb
+C:\Users\Julien\Desktop\Insta.Project.LecteurRSS\Insta.Project.CI.UnitTests.LecteurRSS\bin\Release\Insta.Project.CI.UnitTests.LecteurRSS.dll
+C:\Users\Julien\Desktop\Insta.Project.LecteurRSS\Insta.Project.CI.UnitTests.LecteurRSS\bin\Release\Insta.Project.CI.UnitTests.LecteurRSS.pdb
+C:\Users\Julien\Desktop\Insta.Project.LecteurRSS\Insta.Project.CI.UnitTests.LecteurRSS\bin\Release\Insta.Project.LecteurRSS.dll
+C:\Users\Julien\Desktop\Insta.Project.LecteurRSS\Insta.Project.CI.UnitTests.LecteurRSS\bin\Release\Insta.Project.LecteurRSS.pdb
+C:\Users\Julien\Desktop\Insta.Project.LecteurRSS\Insta.Project.CI.UnitTests.LecteurRSS\bin\Release\Interop.Microsoft.Feeds.Interop.dll
+C:\Users\Julien\Desktop\Insta.Project.LecteurRSS\Insta.Project.CI.UnitTests.LecteurRSS\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Julien\Desktop\Insta.Project.LecteurRSS\Insta.Project.CI.UnitTests.LecteurRSS\obj\Release\Interop.Microsoft.Feeds.Interop.dll
+C:\Users\Julien\Desktop\Insta.Project.LecteurRSS\Insta.Project.CI.UnitTests.LecteurRSS\obj\Release\Insta.Project.LecteurRSS.UnitTests.csproj.ResolveComReference.cache
+C:\Users\Julien\Desktop\Insta.Project.LecteurRSS\Insta.Project.CI.UnitTests.LecteurRSS\obj\Release\Insta.Project.CI.UnitTests.LecteurRSS.Properties.Resources.resources
+C:\Users\Julien\Desktop\Insta.Project.LecteurRSS\Insta.Project.CI.UnitTests.LecteurRSS\obj\Release\Insta.Project.LecteurRSS.UnitTests.csproj.GenerateResource.Cache
+C:\Users\Julien\Desktop\Insta.Project.LecteurRSS\Insta.Project.CI.UnitTests.LecteurRSS\obj\Release\Insta.Project.CI.UnitTests.LecteurRSS.dll
+C:\Users\Julien\Desktop\Insta.Project.LecteurRSS\Insta.Project.CI.UnitTests.LecteurRSS\obj\Release\Insta.Project.CI.UnitTests.LecteurRSS.pdb
+C:\Documents and Settings\Julien\Mes documents\Visual Studio 2008\Projects\Insta.Project.LecteurRSS\Insta.Project.CI.UnitTests.LecteurRSS\bin\Release\Insta.Project.CI.UnitTests.LecteurRSS.dll
+C:\Documents and Settings\Julien\Mes documents\Visual Studio 2008\Projects\Insta.Project.LecteurRSS\Insta.Project.CI.UnitTests.LecteurRSS\bin\Release\Insta.Project.CI.UnitTests.LecteurRSS.pdb
+C:\Documents and Settings\Julien\Mes documents\Visual Studio 2008\Projects\Insta.Project.LecteurRSS\Insta.Project.CI.UnitTests.LecteurRSS\bin\Release\Insta.Project.LecteurRSS.pdb
+C:\Documents and Settings\Julien\Mes documents\Visual Studio 2008\Projects\Insta.Project.LecteurRSS\Insta.Project.CI.UnitTests.LecteurRSS\bin\Release\Interop.Microsoft.Feeds.Interop.dll
+C:\Documents and Settings\Julien\Mes documents\Visual Studio 2008\Projects\Insta.Project.LecteurRSS\Insta.Project.CI.UnitTests.LecteurRSS\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Julien\Mes documents\Visual Studio 2008\Projects\Insta.Project.LecteurRSS\Insta.Project.CI.UnitTests.LecteurRSS\obj\Release\Interop.Microsoft.Feeds.Interop.dll
+C:\Documents and Settings\Julien\Mes documents\Visual Studio 2008\Projects\Insta.Project.LecteurRSS\Insta.Project.CI.UnitTests.LecteurRSS\obj\Release\Insta.Project.LecteurRSS.UnitTests.csproj.ResolveComReference.cache
+C:\Documents and Settings\Julien\Mes documents\Visual Studio 2008\Projects\Insta.Project.LecteurRSS\Insta.Project.CI.UnitTests.LecteurRSS\obj\Release\Insta.Project.CI.UnitTests.LecteurRSS.Properties.Resources.resources
+C:\Documents and Settings\Julien\Mes documents\Visual Studio 2008\Projects\Insta.Project.LecteurRSS\Insta.Project.CI.UnitTests.LecteurRSS\obj\Release\Insta.Project.LecteurRSS.UnitTests.csproj.GenerateResource.Cache
+C:\Documents and Settings\Julien\Mes documents\Visual Studio 2008\Projects\Insta.Project.LecteurRSS\Insta.Project.CI.UnitTests.LecteurRSS\obj\Release\Insta.Project.CI.UnitTests.LecteurRSS.dll
+C:\Documents and Settings\Julien\Mes documents\Visual Studio 2008\Projects\Insta.Project.LecteurRSS\Insta.Project.CI.UnitTests.LecteurRSS\obj\Release\Insta.Project.CI.UnitTests.LecteurRSS.pdb
+C:\Documents and Settings\Julien\Mes documents\Visual Studio 2008\Projects\Insta.Project.LecteurRSS\Insta.Project.CI.UnitTests.LecteurRSS\bin\Release\Insta.Project.LecteurRSS.exe

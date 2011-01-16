@@ -1,0 +1,41 @@
+C:\Users\Julien\Documents\Visual Studio 2008\Projects\Insta.Project.LecteurRSS\Insta.Project.CI.UnitTests.LecteurRSS\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Julien\Documents\Visual Studio 2008\Projects\Insta.Project.LecteurRSS\Insta.Project.CI.UnitTests.LecteurRSS\bin\Debug\Insta.Project.CI.UnitTests.LecteurRSS.dll
+C:\Users\Julien\Documents\Visual Studio 2008\Projects\Insta.Project.LecteurRSS\Insta.Project.CI.UnitTests.LecteurRSS\bin\Debug\Insta.Project.CI.UnitTests.LecteurRSS.pdb
+C:\Users\Julien\Documents\Visual Studio 2008\Projects\Insta.Project.LecteurRSS\Insta.Project.CI.UnitTests.LecteurRSS\obj\Debug\Insta.Project.CI.UnitTests.LecteurRSS.dll
+C:\Users\Julien\Documents\Visual Studio 2008\Projects\Insta.Project.LecteurRSS\Insta.Project.CI.UnitTests.LecteurRSS\obj\Debug\Insta.Project.CI.UnitTests.LecteurRSS.pdb
+C:\Users\Julien\Documents\Visual Studio 2008\Projects\Insta.Project.LecteurRSS\Insta.Project.CI.UnitTests.LecteurRSS\bin\Debug\nunit.framework.dll
+C:\Users\Julien\Documents\Visual Studio 2008\Projects\Insta.Project.LecteurRSS\Insta.Project.CI.UnitTests.LecteurRSS\bin\Debug\Insta.Project.LecteurRSS.pdb
+C:\Users\Julien\Documents\Visual Studio 2008\Projects\Insta.Project.LecteurRSS\Insta.Project.CI.UnitTests.LecteurRSS\bin\Debug\nunit.framework.xml
+C:\Users\bisounours\Documents\c #\projet flux rss\Rea\Insta.Project.LecteurRSS\Insta.Project.CI.UnitTests.LecteurRSS\bin\Debug\Insta.Project.CI.UnitTests.LecteurRSS.dll
+C:\Users\bisounours\Documents\c #\projet flux rss\Rea\Insta.Project.LecteurRSS\Insta.Project.CI.UnitTests.LecteurRSS\bin\Debug\Insta.Project.CI.UnitTests.LecteurRSS.pdb
+C:\Users\bisounours\Documents\c #\projet flux rss\Rea\Insta.Project.LecteurRSS\Insta.Project.CI.UnitTests.LecteurRSS\bin\Debug\Insta.Project.LecteurRSS.exe
+C:\Users\bisounours\Documents\c #\projet flux rss\Rea\Insta.Project.LecteurRSS\Insta.Project.CI.UnitTests.LecteurRSS\bin\Debug\nunit.framework.dll
+C:\Users\bisounours\Documents\c #\projet flux rss\Rea\Insta.Project.LecteurRSS\Insta.Project.CI.UnitTests.LecteurRSS\bin\Debug\Insta.Project.LecteurRSS.pdb
+C:\Users\bisounours\Documents\c #\projet flux rss\Rea\Insta.Project.LecteurRSS\Insta.Project.CI.UnitTests.LecteurRSS\bin\Debug\nunit.framework.xml
+C:\Users\bisounours\Documents\c #\projet flux rss\Rea\Insta.Project.LecteurRSS\Insta.Project.CI.UnitTests.LecteurRSS\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\bisounours\Documents\c #\projet flux rss\Rea\Insta.Project.LecteurRSS\Insta.Project.CI.UnitTests.LecteurRSS\obj\Debug\Insta.Project.CI.UnitTests.LecteurRSS.dll
+C:\Users\bisounours\Documents\c #\projet flux rss\Rea\Insta.Project.LecteurRSS\Insta.Project.CI.UnitTests.LecteurRSS\obj\Debug\Insta.Project.CI.UnitTests.LecteurRSS.pdb
+C:\Users\bisounours\Documents\c #\projet flux rss\Rea\Insta.Project.LecteurRSS\Insta.Project.CI.UnitTests.LecteurRSS\bin\Debug\nunit.core.dll
+C:\Users\bisounours\Documents\c #\projet flux rss\Rea\Insta.Project.LecteurRSS\Insta.Project.CI.UnitTests.LecteurRSS\bin\Debug\nunit.core.interfaces.dll
+C:\Users\Julien\Documents\Visual Studio 2008\Projects\Insta.Project.LecteurRSS\Insta.Project.CI.UnitTests.LecteurRSS\bin\Debug\nunit.core.dll
+C:\Users\Julien\Documents\Visual Studio 2008\Projects\Insta.Project.LecteurRSS\Insta.Project.CI.UnitTests.LecteurRSS\bin\Debug\nunit.core.interfaces.dll
+C:\Users\Julien\Documents\Visual Studio 2008\Projects\Insta.Project.LecteurRSS\Insta.Project.CI.UnitTests.LecteurRSS\obj\Debug\Interop.Microsoft.Feeds.Interop.dll
+C:\Users\Julien\Documents\Visual Studio 2008\Projects\Insta.Project.LecteurRSS\Insta.Project.CI.UnitTests.LecteurRSS\obj\Debug\Insta.Project.CI.UnitTests.LecteurRSS.csproj.ResolveComReference.cache
+C:\Users\Julien\Documents\Visual Studio 2008\Projects\Insta.Project.LecteurRSS\Insta.Project.CI.UnitTests.LecteurRSS\bin\Debug\Interop.Microsoft.Feeds.Interop.dll
+C:\Users\Julien\Documents\Visual Studio 2008\Projects\Insta.Project.LecteurRSS\Insta.Project.CI.UnitTests.LecteurRSS\obj\Debug\Insta.Project.CI.UnitTests.LecteurRSS.Properties.Resources.resources
+C:\Users\Julien\Documents\Visual Studio 2008\Projects\Insta.Project.LecteurRSS\Insta.Project.CI.UnitTests.LecteurRSS\obj\Debug\Insta.Project.CI.UnitTests.LecteurRSS.csproj.GenerateResource.Cache
+C:\Cours\Code\INSTA\zExchange\Insta.Project.LecteurRSS\Insta.Project.CI.UnitTests.LecteurRSS\obj\Debug\ResolveAssemblyReference.cache
+C:\Cours\Code\INSTA\zExchange\Insta.Project.LecteurRSS\Insta.Project.CI.UnitTests.LecteurRSS\obj\Debug\Insta.Project.CI.UnitTests.LecteurRSS.csproj.ResolveComReference.cache
+C:\Cours\Code\INSTA\zExchange\Insta.Project.LecteurRSS\Insta.Project.CI.UnitTests.LecteurRSS\obj\Debug\Insta.Project.CI.UnitTests.LecteurRSS.Properties.Resources.resources
+C:\Cours\Code\INSTA\zExchange\Insta.Project.LecteurRSS\Insta.Project.CI.UnitTests.LecteurRSS\obj\Debug\Insta.Project.CI.UnitTests.LecteurRSS.csproj.GenerateResource.Cache
+C:\Cours\Code\INSTA\zExchange\Insta.Project.LecteurRSS\Insta.Project.CI.UnitTests.LecteurRSS\obj\Debug\Insta.Project.CI.UnitTests.LecteurRSS.dll
+C:\Cours\Code\INSTA\zExchange\Insta.Project.LecteurRSS\Insta.Project.CI.UnitTests.LecteurRSS\obj\Debug\Insta.Project.CI.UnitTests.LecteurRSS.pdb
+C:\Cours\Code\INSTA\zExchange\Insta.Project.LecteurRSS\Insta.Project.CI.UnitTests.LecteurRSS\bin\Debug\Insta.Project.CI.UnitTests.LecteurRSS.dll
+C:\Cours\Code\INSTA\zExchange\Insta.Project.LecteurRSS\Insta.Project.CI.UnitTests.LecteurRSS\bin\Debug\Insta.Project.CI.UnitTests.LecteurRSS.pdb
+C:\Cours\Code\INSTA\zExchange\Insta.Project.LecteurRSS\Insta.Project.CI.UnitTests.LecteurRSS\bin\Debug\nunit.core.dll
+C:\Cours\Code\INSTA\zExchange\Insta.Project.LecteurRSS\Insta.Project.CI.UnitTests.LecteurRSS\bin\Debug\nunit.framework.dll
+C:\Cours\Code\INSTA\zExchange\Insta.Project.LecteurRSS\Insta.Project.CI.UnitTests.LecteurRSS\bin\Debug\nunit.core.interfaces.dll
+C:\Cours\Code\INSTA\zExchange\Insta.Project.LecteurRSS\Insta.Project.CI.UnitTests.LecteurRSS\bin\Debug\Insta.Project.LecteurRSS.pdb
+C:\Cours\Code\INSTA\zExchange\Insta.Project.LecteurRSS\Insta.Project.CI.UnitTests.LecteurRSS\bin\Debug\nunit.framework.xml
+C:\Cours\Code\INSTA\zExchange\Insta.Project.LecteurRSS\Insta.Project.CI.UnitTests.LecteurRSS\bin\Debug\Insta.Project.LecteurRSS.dll
+C:\Users\Julien\Documents\Visual Studio 2008\Projects\Insta.Project.LecteurRSS\Insta.Project.CI.UnitTests.LecteurRSS\bin\Debug\Insta.Project.LecteurRSS.exe

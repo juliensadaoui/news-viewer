@@ -1,0 +1,77 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--This file represents the results of running a test suite-->
+<test-results name="C:\Users\Julien\Documents\Visual Studio 2008\Projects\Insta.Project.LecteurRSS\Insta.Project.CI.UnitTests.LecteurRSS\bin\Debug\Insta.Project.CI.UnitTests.LecteurRSS.dll" total="19" failures="0" not-run="0" date="2009-12-17" time="15:53:06">
+  <environment nunit-version="2.4.5.0" clr-version="2.0.50727.4200" os-version="Microsoft Windows NT 6.0.6002 Service Pack 2" platform="Win32NT" cwd="C:\Program Files\Microsoft Visual Studio 9.0\Common7\IDE" machine-name="SCIPION" user="Julien" user-domain="SCIPION" />
+  <culture-info current-culture="fr-FR" current-uiculture="fr-FR" />
+  <test-suite name="C:\Users\Julien\Documents\Visual Studio 2008\Projects\Insta.Project.LecteurRSS\Insta.Project.CI.UnitTests.LecteurRSS\bin\Debug\Insta.Project.CI.UnitTests.LecteurRSS.dll" success="True" time="0.455" asserts="0">
+    <results>
+      <test-suite name="Insta" success="True" time="0.453" asserts="0">
+        <results>
+          <test-suite name="Project" success="True" time="0.453" asserts="0">
+            <results>
+              <test-suite name="CI" success="True" time="0.450" asserts="0">
+                <results>
+                  <test-suite name="UnitTests" success="True" time="0.450" asserts="0">
+                    <results>
+                      <test-suite name="LecteurRSS" success="True" time="0.450" asserts="0">
+                        <results>
+                          <test-suite name="RSS_0_91_ParserTests" success="True" time="0.230" asserts="0">
+                            <results>
+                              <test-case name="Insta.Project.CI.UnitTests.LecteurRSS.RSS_0_91_ParserTests.TestParse" executed="True" success="True" time="0.113" asserts="1" />
+                            </results>
+                          </test-suite>
+                          <test-suite name="RSS_0_92_ParserTests" success="True" time="0.020" asserts="0">
+                            <results>
+                              <test-case name="Insta.Project.CI.UnitTests.LecteurRSS.RSS_0_92_ParserTests.TestParse" executed="True" success="True" time="0.015" asserts="1" />
+                            </results>
+                          </test-suite>
+                          <test-suite name="RSS_2_0_ParserTests" success="True" time="0.025" asserts="0">
+                            <results>
+                              <test-case name="Insta.Project.CI.UnitTests.LecteurRSS.RSS_2_0_ParserTests.TestParse" executed="True" success="True" time="0.020" asserts="1" />
+                            </results>
+                          </test-suite>
+                          <test-suite name="SyndicationChannelTests" success="True" time="0.010" asserts="0">
+                            <results>
+                              <test-case name="Insta.Project.CI.UnitTests.LecteurRSS.SyndicationChannelTests.TestToString" executed="True" success="True" time="0.005" asserts="1" />
+                            </results>
+                          </test-suite>
+                          <test-suite name="SyndicationFolderTests" success="True" time="0.075" asserts="0">
+                            <results>
+                              <test-case name="Insta.Project.CI.UnitTests.LecteurRSS.SyndicationFolderTests.TestCreateChannel" executed="True" success="True" time="0.008" asserts="1" />
+                              <test-case name="Insta.Project.CI.UnitTests.LecteurRSS.SyndicationFolderTests.TestCreateSubFolder" executed="True" success="True" time="0.003" asserts="1" />
+                              <test-case name="Insta.Project.CI.UnitTests.LecteurRSS.SyndicationFolderTests.TestDelete" executed="True" success="True" time="0.005" asserts="1" />
+                              <test-case name="Insta.Project.CI.UnitTests.LecteurRSS.SyndicationFolderTests.TestExistsChannel" executed="True" success="True" time="0.003" asserts="1" />
+                              <test-case name="Insta.Project.CI.UnitTests.LecteurRSS.SyndicationFolderTests.TestExistsSubFolder" executed="True" success="True" time="0.003" asserts="1" />
+                              <test-case name="Insta.Project.CI.UnitTests.LecteurRSS.SyndicationFolderTests.TestGetChannel" executed="True" success="True" time="0.003" asserts="1" />
+                              <test-case name="Insta.Project.CI.UnitTests.LecteurRSS.SyndicationFolderTests.TestGetSubFolder" executed="True" success="True" time="0.003" asserts="1" />
+                              <test-case name="Insta.Project.CI.UnitTests.LecteurRSS.SyndicationFolderTests.TestMove" executed="True" success="True" time="0.005" asserts="1" />
+                              <test-case name="Insta.Project.CI.UnitTests.LecteurRSS.SyndicationFolderTests.TestRename" executed="True" success="True" time="0.008" asserts="1" />
+                              <test-case name="Insta.Project.CI.UnitTests.LecteurRSS.SyndicationFolderTests.TestToString" executed="True" success="True" time="0.003" asserts="1" />
+                            </results>
+                          </test-suite>
+                          <test-suite name="SyndicationItemTests" success="True" time="0.003" asserts="0">
+                            <results>
+                              <test-case name="Insta.Project.CI.UnitTests.LecteurRSS.SyndicationItemTests.TestDelete" executed="True" success="True" time="0.003" asserts="0" />
+                            </results>
+                          </test-suite>
+                          <test-suite name="SyndicationManagerTests" success="True" time="0.058" asserts="0">
+                            <results>
+                              <test-case name="Insta.Project.CI.UnitTests.LecteurRSS.SyndicationManagerTests.TestExistsChannel" executed="True" success="True" time="0.050" asserts="1" />
+                              <test-case name="Insta.Project.CI.UnitTests.LecteurRSS.SyndicationManagerTests.TestExistsFolder" executed="True" success="True" time="0.000" asserts="1" />
+                              <test-case name="Insta.Project.CI.UnitTests.LecteurRSS.SyndicationManagerTests.TestGetChannel" executed="True" success="True" time="0.003" asserts="1" />
+                              <test-case name="Insta.Project.CI.UnitTests.LecteurRSS.SyndicationManagerTests.TestGetFolder" executed="True" success="True" time="0.003" asserts="1" />
+                            </results>
+                          </test-suite>
+                        </results>
+                      </test-suite>
+                    </results>
+                  </test-suite>
+                </results>
+              </test-suite>
+            </results>
+          </test-suite>
+        </results>
+      </test-suite>
+    </results>
+  </test-suite>
+</test-results>
